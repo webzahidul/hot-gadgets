@@ -1,0 +1,31 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.buy-now-button{
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+p{
+    color: gray;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px lightgray;
+    text-align: center;
+}
+.smartphone{
+    padding-bottom: 40px;
+}
+h6{
+    color: lightsalmon;
+    cursor: pointer;
+
+}
