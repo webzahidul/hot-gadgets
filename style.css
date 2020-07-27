@@ -43,7 +43,7 @@ text-align: center;
 }
 .bag{
     box-shadow: 10px 10px 40px rgb(221, 225, 243);
-    padding: 10px;
+    padding: 50px;
     border-radius: 5px 10px 5px 20px;
     
 }
@@ -55,7 +55,7 @@ hr{
 .perfume-shoe{
     box-shadow: 10px 10px 40px rgb(221, 225, 243);
     border-radius: 10px 5px 20px 5px;
-    padding: 10px;
+    padding: 50px;
     margin-left: 30px;
     margin-top: 30px;
 }
