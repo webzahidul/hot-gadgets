@@ -38,6 +38,24 @@ h6{
 h4{
 text-align: center;
 }
-.container h3{
-    text-align: center;
+.category-margin{
+    margin-top:100px ;
+}
+.bag{
+    box-shadow: 10px 10px 40px rgb(221, 225, 243);
+    padding: 10px;
+    border-radius: 5px 10px 5px 20px;
+    
+}
+hr{
+    background-image: linear-gradient(90deg,#FFC420,#FFB229,#FF9C35);
+    width: 100px;
+    height: 6px;
+}
+.perfume-shoe{
+    box-shadow: 10px 10px 40px rgb(221, 225, 243);
+    border-radius: 10px 5px 20px 5px;
+    padding: 10px;
+    margin-left: 30px;
+    margin-top: 30px;
 }
